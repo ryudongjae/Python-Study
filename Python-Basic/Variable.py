@@ -10,3 +10,9 @@ print(c)
 
 print(b+c)
 print(a,b,c)
+
+print("HelloWorld")
+
+f = 4
+g = 6
+print(f + g)
