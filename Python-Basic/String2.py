@@ -15,3 +15,12 @@ print(string2)
 
 string2 =string2.strip()
 print(string2)
+
+
+string2 = string2.strip()
+print(string2)
+
+string2 = string2.replace(",","")
+string2 = string2[:-1]
+print(string2)
+
