@@ -1,0 +1,13 @@
+print("일반 계산기")
+value1 = input("첫번째 갑을 입력해주세요. : ")
+value2 = input("두번째 값을 입력해주세요. : ")
+
+print("두 개의 값 : ",value1," 와 ",value2)
+value1 = int(value1)
+value2 = int(value2)
+print("더하기 값(a+b): ",value1 + value2)
+print("빼기 값(a-b): ",value1- value2)
+print("곱하기 값(a*b): " ,value1 * value2)
+print("정수 나누기 값(a//b): " ,value1 // value2)
+print("실수 나누기 값(a/b): " ,value1 / value2)
+print("나머지 값(a%b): " ,value1 % value2)
