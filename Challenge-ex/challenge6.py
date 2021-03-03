@@ -15,3 +15,8 @@ print("-"*40)
 print("교체결과")
 for p in players:
     print(p)
+
+
+
+
+    
