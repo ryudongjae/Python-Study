@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c9b1376-059b-4a1d-87e2-6aa663b4bd3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python 300/Python 021-030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RandomNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python 041-050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +123,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Basic/RandomNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 300/Python 041-050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,10 +162,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Python 021-030" />
-        <item itemvalue="Python.Python 011 - 020" />
         <item itemvalue="Python.Python 001 -010" />
+        <item itemvalue="Python.Python 041-050" />
+        <item itemvalue="Python.Python 011 - 020" />
         <item itemvalue="Python.quiz2" />
-        <item itemvalue="Python.RandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +178,8 @@
       <option name="presentableId" value="Default" />
       <updated>1615099382433</updated>
       <workItem from="1616332350967" duration="3295000" />
-      <workItem from="1616435710794" duration="746000" />
+      <workItem from="1616435710794" duration="795000" />
+      <workItem from="1616827728212" duration="2322000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1615471782993</created>
@@ -237,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616335171647</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="python 021-030">
+      <created>1616436511113</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616436511113</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Python 031 -050">
+      <created>1616829737944</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616829737944</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,11 +272,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="python 021-030" />
+    <MESSAGE value="Python 031 -050" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python 031 -050" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Study$Python_041_050.coverage" NAME="Python 041-050 Coverage Results" MODIFIED="1616829695835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 300" />
+    <SUITE FILE_PATH="coverage/Python_Study$Python_001__010.coverage" NAME="Python 001 -010 Coverage Results" MODIFIED="1616829764368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 300" />
     <SUITE FILE_PATH="coverage/Python_Study$Python_011___020.coverage" NAME="Python 011 - 020 Coverage Results" MODIFIED="1616335158937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 300" />
-    <SUITE FILE_PATH="coverage/Python_Study$Python_021_030.coverage" NAME="Python 021-030 Coverage Results" MODIFIED="1616436202804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 300" />
+    <SUITE FILE_PATH="coverage/Python_Study$Python_021_030.coverage" NAME="Python 021-030 Coverage Results" MODIFIED="1616829785478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 300" />
     <SUITE FILE_PATH="coverage/Python_Study$Python_001__020.coverage" NAME="Python 001 -010 Coverage Results" MODIFIED="1616333441566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python 300" />
   </component>
 </project>
